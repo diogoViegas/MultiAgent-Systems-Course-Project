@@ -1,0 +1,937 @@
+add FridgePantry 1
+add User Carla F 65 70 160 [] [Batata,Tomate,Bacalhau,Ovo,Presunto,Natas,Frango,Bifes de Frango,Pato] [Aipo,Cenoura,Grao,Carne de Porco,Costeletas de Porco,Brocolos,Espargos,Espinafres]
+add FridgePantry 2
+add User Nelson M 25 75 170 [] [Aipo,Cenoura,Grao,Carne de Porco,Costeletas de Porco,Brocolos,Espargos,Espinafres] [Batata,Tomate,Bacalhau,Ovo,Presunto,Natas,Frango,Bife de Frango,Pato]
+####contrario de 1
+add FridgePantry 3
+add User Carminho F 50 50 150 [] [Arroz,Presunto,Bacon,Costeletas de Porco,Carne de Porco,Carne de Vaca Picada,Bife de Frango,Frango] [Massa Esparguete,Massa Espiral,Massa Macarronete,Milho,Atum,Bacalhau,Pescada]
+####gosta arroz carne, desgosta massa peixe
+add FridgePantry 4
+add User Marcelo M 65 70 170 [] [Couve-Flor,Brocolos,Cenoura,Nabo,Batata,Cebola,Tomate,Cogumelos,Grao,Abobora,Courgette,Alho-Frances,Couve Coracao-de-boi,Espargos,Espinafres,Lentilhas] [Atum,Presunto,Carne de Vaca Picada,Bacalhau,Costeletas de Porco,Bife de Frango,Frango,Lula,Bacon]
+####vegetariano
+
+add Ingredient 1 Atum 500 25/01/2021
+add Ingredient 1 Cenoura 150 13/01/2021
+add Ingredient 1 Alho 30 07/01/2021
+add Ingredient 1 Presunto 200 02/02/2021
+add Ingredient 1 Nabo 500 07/01/2021
+add Ingredient 1 Batata 500 12/01/2021
+add Ingredient 1 Natas 200 01/02/2021
+add Ingredient 1 Carne de Vaca Picada 500 08/01/2021
+add Ingredient 1 Cebola 200 05/01/2021
+add Ingredient 1 Bacalhau 500 08/01/2021
+add Ingredient 1 Massa Esparguete 1000 10/01/2021
+add Ingredient 1 Arroz 1000 14/01/2021
+add Ingredient 1 Tomate 500 08/01/2021
+add Ingredient 1 Costeletas de Porco 500 09/01/2021
+add Ingredient 1 Bife de Frango 500 07/01/2021
+add Ingredient 1 Cogumelos 500 05/01/2021
+add Ingredient 1 Grao 500 10/01/2021
+add Ingredient 1 Pato 500 12/01/2021
+add Ingredient 1 Polpa de Tomate 500 05/01/2021
+add Ingredient 1 Pescada 500 10/01/2021
+add Ingredient 1 Lula 500 10/01/2021
+add Ingredient 1 Frango 500 10/01/2021
+add Ingredient 1 Bacon 200 10/01/2021
+add Ingredient 1 Batata-Doce 500 14/01/2021
+add Ingredient 1 Folha de Louro 30 14/01/2021
+add Ingredient 1 Carne de Porco 500 10/01/2021
+add Ingredient 1 Farinha 500 08/07/2021
+add Ingredient 1 Ovo 12 08/01/2021
+add Ingredient 1 Feijao Encarnado 500 08/01/2021
+add Ingredient 1 Batata-palha 500 08/01/2021
+add Ingredient 1 Brocolos 200 08/07/2021
+add Ingredient 1 Aipo 200 08/07/2021
+add Ingredient 1 Couve-Portuguesa 200 08/07/2021
+add Ingredient 1 Courgette 200 08/07/2021
+add Ingredient 1 Pimento 200 08/07/2021
+add Ingredient 1 Courgette 200 08/07/2021
+add Ingredient 1 Massa Fusilli 200 08/07/2021
+add Ingredient 1 Fiambre 200 08/07/2021
+add Ingredient 1 Espinafres 200 08/07/2021
+add Ingredient 1 Milho 200 08/07/2021
+add Ingredient 1 Leite 200 08/07/2021
+add Ingredient 1 Manteiga 200 08/07/2021
+add Ingredient 1 Rucula 200 08/07/2021
+add Ingredient 1 Pao 200 08/07/2021
+add Ingredient 1 Batata-Doce 200 08/07/2021
+add Ingredient 1 Salsicha Fresca 200 08/07/2021
+add Ingredient 1 Espargos 200 08/07/2021
+add Ingredient 1 Lentilhas 200 08/07/2021
+add Ingredient 1 Nabica 200 08/07/2021
+add Ingredient 1 Abacaxi 200 08/07/2021
+add Ingredient 1 Ervilhas 200 08/07/2021
+add Ingredient 1 Agriao 200 08/07/2021
+add Ingredient 1 Arroz risotto 200 08/07/2021
+add Ingredient 1 Couve 200 08/07/2021
+
+#ingredientes base que todos devem ter ao inicio
+
+add Ingredient 2 Atum 500 25/01/2021
+add Ingredient 2 Cenoura 150 13/01/2021
+add Ingredient 2 Alho 30 07/01/2021
+add Ingredient 2 Presunto 200 02/02/2021
+add Ingredient 2 Nabo 500 07/01/2021
+add Ingredient 2 Batata 500 12/01/2021
+add Ingredient 2 Natas 200 01/02/2021
+add Ingredient 2 Carne de Vaca Picada 500 08/01/2021
+add Ingredient 2 Cebola 200 05/01/2021
+add Ingredient 2 Bacalhau 500 08/01/2021
+add Ingredient 2 Massa Esparguete 1000 10/01/2021
+add Ingredient 2 Arroz 1000 14/01/2021
+add Ingredient 2 Tomate 500 08/01/2021
+add Ingredient 2 Costeletas de Porco 500 09/01/2021
+add Ingredient 2 Bife de Frango 500 07/01/2021
+add Ingredient 2 Cogumelos 500 05/01/2021
+add Ingredient 2 Grao 500 10/01/2021
+add Ingredient 2 Pato 500 12/01/2021
+add Ingredient 2 Polpa de Tomate 500 05/01/2021
+add Ingredient 2 Pescada 500 10/01/2021
+add Ingredient 2 Lula 500 10/01/2021
+add Ingredient 2 Frango 500 10/01/2021
+add Ingredient 2 Bacon 200 10/01/2021
+add Ingredient 2 Batata-Doce 500 14/01/2021
+add Ingredient 2 Folha de Louro 30 14/01/2021
+add Ingredient 2 Carne de Porco 500 10/01/2021
+add Ingredient 2 Farinha 500 08/07/2021
+add Ingredient 2 Ovo 12 08/01/2021
+add Ingredient 2 Feijao Encarnado 500 08/01/2021
+add Ingredient 2 Batata-palha 500 08/01/2021
+add Ingredient 2 Brocolos 200 08/07/2021
+add Ingredient 2 Aipo 200 08/07/2021
+add Ingredient 2 Couve-Portuguesa 200 08/07/2021
+add Ingredient 2 Courgette 200 08/07/2021
+add Ingredient 2 Pimento 200 08/07/2021
+add Ingredient 2 Courgette 200 08/07/2021
+add Ingredient 2 Massa Fusilli 200 08/07/2021
+add Ingredient 2 Fiambre 200 08/07/2021
+add Ingredient 2 Espinafres 200 08/07/2021
+add Ingredient 2 Milho 200 08/07/2021
+add Ingredient 2 Leite 200 08/07/2021
+add Ingredient 2 Manteiga 200 08/07/2021
+add Ingredient 2 Rucula 200 08/07/2021
+add Ingredient 2 Pao 200 08/07/2021
+add Ingredient 2 Batata-Doce 200 08/07/2021
+add Ingredient 2 Salsicha Fresca 200 08/07/2021
+add Ingredient 2 Espargos 200 08/07/2021
+add Ingredient 2 Lentilhas 200 08/07/2021
+add Ingredient 2 Nabica 200 08/07/2021
+add Ingredient 2 Abacaxi 200 08/07/2021
+add Ingredient 2 Ervilhas 200 08/07/2021
+add Ingredient 2 Agriao 200 08/07/2021
+add Ingredient 2 Arroz risotto 200 08/07/2021
+add Ingredient 2 Couve 200 08/07/2021
+###############################################################
+add Ingredient 3 Atum 500 25/01/2021
+add Ingredient 3 Cenoura 150 13/01/2021
+add Ingredient 3 Alho 30 07/01/2021
+add Ingredient 3 Presunto 200 02/02/2021
+add Ingredient 3 Nabo 500 07/01/2021
+add Ingredient 3 Batata 500 12/01/2021
+add Ingredient 3 Natas 200 01/02/2021
+add Ingredient 3 Carne de Vaca Picada 500 08/01/2021
+add Ingredient 3 Cebola 200 05/01/2021
+add Ingredient 3 Bacalhau 500 08/01/2021
+add Ingredient 3 Massa Esparguete 1000 10/01/2021
+add Ingredient 3 Arroz 1000 14/01/2021
+add Ingredient 3 Tomate 500 08/01/2021
+add Ingredient 3 Costeletas de Porco 500 09/01/2021
+add Ingredient 3 Bife de Frango 500 07/01/2021
+add Ingredient 3 Cogumelos 500 05/01/2021
+add Ingredient 3 Grao 500 10/01/2021
+add Ingredient 3 Pato 500 12/01/2021
+add Ingredient 3 Polpa de Tomate 500 05/01/2021
+add Ingredient 3 Pescada 500 10/01/2021
+add Ingredient 3 Lula 500 10/01/2021
+add Ingredient 3 Frango 500 10/01/2021
+add Ingredient 3 Bacon 200 10/01/2021
+add Ingredient 3 Batata-Doce 500 14/01/2021
+add Ingredient 3 Folha de Louro 30 14/01/2021
+add Ingredient 3 Carne de Porco 500 10/01/2021
+add Ingredient 3 Farinha 500 08/07/2021
+add Ingredient 3 Ovo 12 08/01/2021
+add Ingredient 3 Feijao Encarnado 500 08/01/2021
+add Ingredient 3 Batata-palha 500 08/01/2021
+add Ingredient 3 Brocolos 200 08/07/2021
+add Ingredient 3 Aipo 200 08/07/2021
+add Ingredient 3 Couve-Portuguesa 200 08/07/2021
+add Ingredient 3 Courgette 200 08/07/2021
+add Ingredient 3 Pimento 200 08/07/2021
+add Ingredient 3 Courgette 200 08/07/2021
+add Ingredient 3 Massa Fusilli 200 08/07/2021
+add Ingredient 3 Fiambre 200 08/07/2021
+add Ingredient 3 Espinafres 200 08/07/2021
+add Ingredient 3 Milho 200 08/07/2021
+add Ingredient 3 Leite 200 08/07/2021
+add Ingredient 3 Manteiga 200 08/07/2021
+add Ingredient 3 Rucula 200 08/07/2021
+add Ingredient 3 Pao 200 08/07/2021
+add Ingredient 3 Batata-Doce 200 08/07/2021
+add Ingredient 3 Salsicha Fresca 200 08/07/2021
+add Ingredient 3 Espargos 200 08/07/2021
+add Ingredient 3 Lentilhas 200 08/07/2021
+add Ingredient 3 Nabica 200 08/07/2021
+add Ingredient 3 Abacaxi 200 08/07/2021
+add Ingredient 3 Ervilhas 200 08/07/2021
+add Ingredient 3 Agriao 200 08/07/2021
+add Ingredient 3 Arroz risotto 200 08/07/2021
+add Ingredient 3 Couve 200 08/07/2021
+######################################
+add Ingredient 4 Atum 500 25/01/2021
+add Ingredient 4 Cenoura 150 13/01/2021
+add Ingredient 4 Alho 30 07/01/2021
+add Ingredient 4 Presunto 200 02/02/2021
+add Ingredient 4 Nabo 500 07/01/2021
+add Ingredient 4 Batata 500 12/01/2021
+add Ingredient 4 Natas 200 01/02/2021
+add Ingredient 4 Carne de Vaca Picada 500 08/01/2021
+add Ingredient 4 Cebola 200 05/01/2021
+add Ingredient 4 Bacalhau 500 08/01/2021
+add Ingredient 4 Massa Esparguete 1000 10/01/2021
+add Ingredient 4 Arroz 1000 14/01/2021
+add Ingredient 4 Tomate 500 08/01/2021
+add Ingredient 4 Costeletas de Porco 500 09/01/2021
+add Ingredient 4 Bife de Frango 500 07/01/2021
+add Ingredient 4 Cogumelos 500 05/01/2021
+add Ingredient 4 Grao 500 10/01/2021
+add Ingredient 4 Pato 500 12/01/2021
+add Ingredient 4 Polpa de Tomate 500 05/01/2021
+add Ingredient 4 Pescada 500 10/01/2021
+add Ingredient 4 Lula 500 10/01/2021
+add Ingredient 4 Frango 500 10/01/2021
+add Ingredient 4 Bacon 200 10/01/2021
+add Ingredient 4 Batata-Doce 500 14/01/2021
+add Ingredient 4 Folha de Louro 30 14/01/2021
+add Ingredient 4 Carne de Porco 500 10/01/2021
+add Ingredient 4 Farinha 500 08/07/2021
+add Ingredient 4 Ovo 12 08/01/2021
+add Ingredient 4 Feijao Encarnado 500 08/01/2021
+add Ingredient 4 Batata-palha 500 08/01/2021
+add Ingredient 4 Brocolos 200 08/07/2021
+add Ingredient 4 Aipo 200 08/07/2021
+add Ingredient 4 Couve-Portuguesa 200 08/07/2021
+add Ingredient 4 Courgette 200 08/07/2021
+add Ingredient 4 Pimento 200 08/07/2021
+add Ingredient 4 Courgette 200 08/07/2021
+add Ingredient 4 Massa Fusilli 200 08/07/2021
+add Ingredient 4 Fiambre 200 08/07/2021
+add Ingredient 4 Espinafres 200 08/07/2021
+add Ingredient 4 Milho 200 08/07/2021
+add Ingredient 4 Leite 200 08/07/2021
+add Ingredient 4 Manteiga 200 08/07/2021
+add Ingredient 4 Rucula 200 08/07/2021
+add Ingredient 4 Pao 200 08/07/2021
+add Ingredient 4 Batata-Doce 200 08/07/2021
+add Ingredient 4 Salsicha Fresca 200 08/07/2021
+add Ingredient 4 Espargos 200 08/07/2021
+add Ingredient 4 Lentilhas 200 08/07/2021
+add Ingredient 4 Nabica 200 08/07/2021
+add Ingredient 4 Abacaxi 200 08/07/2021
+add Ingredient 4 Ervilhas 200 08/07/2021
+add Ingredient 4 Agriao 200 08/07/2021
+add Ingredient 4 Arroz risotto 200 08/07/2021
+add Ingredient 4 Couve 200 08/07/2021
+add Ingredient 4 Feijao-Frade 300 08/07/2021
+
+###################################################
+###ingredientes mais especializados para cada um
+###############################################
+add Ingredient 1 Limao 10 10/01/2021
+add Ingredient 1 Massa de Pimentao 500 07/01/2021
+add Ingredient 1 Ameijoa 1000 10/01/2021
+add Ingredient 1 Leite de Coco 500 10/01/2021
+add Ingredient 1 Caril 200 10/01/2021
+add Ingredient 1 Maca 200 10/01/2021
+add Ingredient 1 Manjericao 200 10/01/2021
+add Ingredient 1 Tamaras 200 10/01/2021
+add Ingredient 1 Queijo Feta 200 10/01/2021
+add Ingredient 1 Massa farfalle 200 10/01/2021
+add Ingredient 1 Tortellini de ricota 200 10/01/2021
+
+add Ingredient 2 Iogurte 500 05/01/2021
+add Ingredient 2 Couve Coracao-de-boi 800 07/01/2021
+add Ingredient 2 Mozzarella 100 07/01/2021
+add Ingredient 2 Miolo de Noz 100 07/01/2021
+add Ingredient 2 Parmesao 200 05/01/2021
+add Ingredient 2 Malagueta 200 05/01/2021
+add Ingredient 2 Molho Ingles 200 05/01/2021
+add Ingredient 2 Noz-Moscada 200 05/01/2021
+add Ingredient 2 Amendoa 200 05/01/2021
+add Ingredient 2 Noz 100 05/01/2021
+
+add Ingredient 3 Cubo de Caldo de Galinha 800 07/01/2021
+add Ingredient 3 Massa Espiral 500 10/01/2021
+add Ingredient 3 Molho Pesto 300 05/01/2021
+add Ingredient 3 Sangue de Frango 1000 10/01/2021
+add Ingredient 3 Ervas de Provenca 200 05/01/2021
+add Ingredient 3 Paprica 200 05/01/2021
+add Ingredient 3 Ketchup 200 05/01/2021
+add Ingredient 3 Massa de Pimentao 200 05/01/2021
+add Ingredient 3 Pao Ralado 200 05/01/2021
+
+add Ingredient 4 Pimento 300 07/01/2021
+add Ingredient 4 Sumo de Laranja 500 02/01/2021
+add Ingredient 4 Vinho da Madeira 1000 07/01/2021
+add Ingredient 4 Vinho Tinto 1000 05/05/2021
+add Ingredient 4 Vinho Branco 1000 05/05/2021
+add Ingredient 4 Mel 200 07/01/2021
+add Ingredient 4 Molho de Soja 200 07/01/2021
+add Ingredient 4 Vinagre de Sidra 200 07/01/2021
+add Ingredient 4 Cebolinho 200 07/01/2021
+add Ingredient 4 Folha de Lasanha 400 07/01/2021
+
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 2
+choose Suggestion 2
+give Feedback 2
+get Suggestion 3
+choose Suggestion 3
+give Feedback 3
+get Suggestion 4
+choose Suggestion 4
+give Feedback 4
+##############################
+
+end
+
+teste paralta, bue comida, 50 iteraçoes com 4 fridges
+bases de comida mais completas, menores quantidades

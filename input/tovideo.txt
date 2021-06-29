@@ -1,0 +1,115 @@
+add FridgePantry 1
+add User Carla F 35 70 160 [] [] []
+
+add Ingredient 1 Atum 75 25/01/2021
+add Ingredient 1 Feijao-Frade 63 25/01/2021
+add Ingredient 1 Cebola 25 25/01/2021
+add Ingredient 1 Ovo 1 25/01/2021
+add Ingredient 1 Tomate 25 25/01/2021
+
+add Ingredient 1 Bife de Frango 75 25/01/2021
+add Ingredient 1 Arroz 63 25/01/2021
+add Ingredient 1 Grao 105 25/01/2021
+add Ingredient 1 Pimento 38 25/01/2021
+add Ingredient 1 Cogumelos 38 25/01/2021
+add Ingredient 1 Limao 1 25/01/2021
+
+get Suggestion 1
+choose Suggestion 1 2
+give Feedback 1 2.5
+
+set weights 1 0.51 0 0.49
+
+add Ingredient 1 Bife de Frango 75 2/01/2021
+add Ingredient 1 Arroz 63 2/01/2021
+add Ingredient 1 Grao 105 2/01/2021
+add Ingredient 1 Pimento 38 2/01/2021
+add Ingredient 1 Cogumelos 38 2/01/2021
+add Ingredient 1 Limao 1 2/01/2021
+
+get Suggestion 1
+choose Suggestion 1 1
+give Feedback 1 2.5
+get Suggestion 1
+choose Suggestion 1 1
+give Feedback 1 2.5
+get Suggestion 1
+
+add Ingredient 1 Pescada 90 25/01/2021
+add Ingredient 1 Batata 125 25/01/2021
+add Ingredient 1 Espargos 50 25/01/2021
+add Ingredient 1 Tomate 38 25/01/2021
+
+get Suggestion 1
+
+add FridgePantry 2
+add User Nelson M 25 75 170 [] [] []
+
+add Ingredient 2 Pescada 10 30/01/2021
+
+add FridgePantry 3
+add User carlos M 25 75 170 [] [] []
+
+add Ingredient 3 Pescada 10 25/01/2021
+
+show Ingredients 2
+show Ingredients 3
+
+get Suggestion 1
+choose Suggestion 1 1
+give Feedback 1 2.5
+
+show Ingredients 2
+show Ingredients 3
+
+set weights 1 0 0 1
+
+get ing_weights 1
+
+add Ingredient 1 Atum 75 25/01/2021
+add Ingredient 1 Feijao-Frade 63 25/01/2021
+add Ingredient 1 Cebola 25 25/01/2021
+add Ingredient 1 Ovo 1 25/01/2021
+add Ingredient 1 Tomate 25 25/01/2021
+
+get Suggestion 1
+choose Suggestion 1 1
+give Feedback 1 1
+
+add Ingredient 1 Bife de Frango 75 25/01/2021
+add Ingredient 1 Arroz 63 25/01/2021
+add Ingredient 1 Grao 105 25/01/2021
+add Ingredient 1 Pimento 38 25/01/2021
+add Ingredient 1 Cogumelos 38 25/01/2021
+add Ingredient 1 Limao 1 25/01/2021
+
+get Suggestion 1
+choose Suggestion 1 1
+give Feedback 1 5
+
+get ing_weights 1
+
+add Ingredient 1 Atum 75 25/01/2021
+add Ingredient 1 Feijao-Frade 63 25/01/2021
+add Ingredient 1 Cebola 25 25/01/2021
+add Ingredient 1 Ovo 1 25/01/2021
+add Ingredient 1 Tomate 25 25/01/2021
+add Ingredient 1 Bife de Frango 75 25/01/2021
+add Ingredient 1 Arroz 63 25/01/2021
+add Ingredient 1 Grao 105 25/01/2021
+add Ingredient 1 Pimento 38 25/01/2021
+add Ingredient 1 Cogumelos 38 25/01/2021
+add Ingredient 1 Limao 1 25/01/2021
+
+get Suggestion 1
+
+add Ingredient 1 Pato 1000 25/01/2021
+add Ingredient 1 Maca 1000 25/01/2021
+add Ingredient 1 Nabo 1000 25/01/2021
+add Ingredient 1 Vinho da Madeira 1000 25/01/2021
+add Ingredient 1 Tamaras 1000 25/01/2021
+
+get Suggestion 1
+
+
+end

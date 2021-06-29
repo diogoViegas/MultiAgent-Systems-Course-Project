@@ -1,0 +1,13 @@
+add FridgePantry 1
+add User Carla F 65 70 160 [] [] []
+get Suggestion 1
+choose Suggestion 1 5
+give Feedback 1 4.5 
+get Suggestion 1
+choose Suggestion 1 5
+give Feedback 1 3.5
+end
+
+pede sugestoes, escolhe a quinta sugestao de ambas as vezes e guarda feedback 
+dessa escolha, a escolha é guardada no FP, e weigts associados a cada alimento
+updated

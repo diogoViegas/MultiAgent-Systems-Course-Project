@@ -1,0 +1,16 @@
+add FridgePantry 1
+add User Maria F 65 75 160 [Abacate,Amendoim] [] []
+add Ingredient 1 Tomate 500 10/10/2020 
+add Ingredient 1 Tomate 500 12/12/2022 
+add Ingredient 1 Bacalhau 500 10/10/2020 
+add Ingredient 1 Bacalhau 500 12/12/2022 
+add Ingredient 1 Bacon 500 10/10/2020 
+add Ingredient 1 Bacon 500 12/12/2022 
+remove Ingredient 1 Tomate 750
+remove Ingredient 1 Bacalhau 250
+remove Ingredient 1 Bacon 1000
+end
+
+teste onde com 1 FP ele tenta remover um igrediente e esgota a primeira dV
+e comeca a tirar da segunda, onde ele comeca a tirar da primeira dV e isso
+chega e onde tira a totalida de remove o ingrediente do FP

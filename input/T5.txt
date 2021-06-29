@@ -1,0 +1,13 @@
+add FridgePantry 1
+add User Carla F 65 70 160 [] [] []
+add Ingredient 1 Tomate 500 01/01/2021 
+get Suggestion 1
+choose Suggestion 1 1
+give Feedback 1 5
+get Suggestion 1
+choose Suggestion 1 1
+give Feedback 1 5
+end
+
+tem um ingrediente que nao e usado e apos o dia mudar adiciona
+o ingrediente ao lixo

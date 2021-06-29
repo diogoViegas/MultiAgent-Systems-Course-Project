@@ -1,0 +1,23 @@
+add FridgePantry 1
+add User Carla F 65 70 160 [Cenoura,Amendoim] [Batata,Tomate] [Cebola,Bacalhau]
+add User Maria F 60 60 165 [] [] []
+add User Roberto M 20 90 200 [] [] []
+add FridgePantry 2
+add User Nelson M 25 75 170 [] [] []
+add User Anabela F 20 150 175 [] [] []
+add FridgePantry 3
+add User Carminho F 50 50 150 [] [] []
+add Ingredient 1 Abobora 500 07/01/2021
+add Ingredient 1 Brocolos 600 06/01/2021  
+add Ingredient 1 Grao 400 01/05/2021 
+add Ingredient 1 Batata-Doce 500 01/01/2021 
+add Ingredient 1 Cebola 1000 01/01/2021
+add Ingredient 2 Alho 1000 02/01/2021
+add Ingredient 3 Alho 1000 03/01/2021
+get Suggestion 1
+choose Suggestion 1 1
+give Feedback 1 5
+end
+
+testa que vai buscar o ingrediente ao frigorfico com a 
+data de validade mais proxima do fim 

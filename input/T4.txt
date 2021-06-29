@@ -1,0 +1,18 @@
+add FridgePantry 1
+add User Carla F 65 70 160 [] [] []
+add FridgePantry 2
+add User Maria F 65 75 160 [Cenoura,Amendoim] [] []
+add Ingredient 1 Folha de Louro 1000 12/12/2022
+add Ingredient 1 Bacalhau 1 12/12/2022
+add Ingredient 1 Cebola 1000 12/12/2022
+add Ingredient 1 Alho 1000 12/12/2022
+add Ingredient 1 Batata-palha 1 12/12/2022
+add Ingredient 2 Batata-palha 1000 12/12/2022
+add Ingredient 2 Bacalhau 1000 12/12/2022
+add Ingredient 1 Ovo 1000 12/12/2022
+add Ingredient 1 Azeitona 1000 12/12/2022
+add Ingredient 1 Batata 1000 12/12/2022
+get Suggestion 1
+choose Suggestion 1 1
+give Feedback 1 5
+end

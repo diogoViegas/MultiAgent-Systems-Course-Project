@@ -1,0 +1,15 @@
+add FridgePantry 1
+add User Carla F 65 70 160 [] [] []
+add FridgePantry 2
+add User Maria F 65 75 160 [Cenoura,Amendoim] [] []
+add User Romeu M 20 90 200 [Cenoura,Alho,Amendoim] [] []
+add Ingredient 1 Alho 10 10/10/2020 
+add Ingredient 2 Batata 55 10/10/2020 
+add Ingredient 2 Bacalhau 333 12/12/2022 
+add Ingredient 2 Bacalhau 333 10/10/2020 
+add Ingredient 2 Bacalhau 333 10/10/2020 
+end
+
+teste em que se insere FP's, clientes (onde alergias dos clientes sao adicionadas
+as alergias do fridge) e ingredientes que sao adicionados (casos existam ve se essa
+dV ja existe ou nao e ordena as dV)

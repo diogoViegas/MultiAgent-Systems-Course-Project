@@ -1,0 +1,10 @@
+add FridgePantry 1
+add User Carla F 65 70 160 [] [] []
+add FridgePantry 2
+add User Maria F 65 75 160 [Cenoura,Amendoim] [] []
+add Ingredient 2 Tomate 500 12/12/2022 
+add Ingredient 2 Bacalhau 500 12/12/2022 
+add Ingredient 2 Cebola 1 12/12/2022 
+add Ingredient 2 Alho 1 12/12/2022 
+teste1
+end

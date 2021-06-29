@@ -1,0 +1,223 @@
+add FridgePantry 1
+add User Carla F 35 70 160 [] [Bacalhau,Maruca,Camarao,Frango,Bife de Frango,Lula,Atum,Pato,Pescada] [Costeletas de Porco,Fiambre,Carne de Vaca Picada,Presunto,Salsicha Fresca,Costeleta de Porco,Chourico,Carne de Porco]
+####gosta aves e peixe desgosta carnes vermelhas
+
+add Ingredient 1 Atum 300 25/01/2021
+add Ingredient 1 Cenoura 150 13/01/2021
+add Ingredient 1 Alho 30 07/01/2021
+add Ingredient 1 Presunto 100 02/02/2021
+add Ingredient 1 Nabo 150 07/01/2021
+add Ingredient 1 Batata 500 12/01/2021
+add Ingredient 1 Natas 200 01/02/2021
+add Ingredient 1 Carne de Vaca Picada 300 08/01/2021
+add Ingredient 1 Cebola 500 05/01/2021
+add Ingredient 1 Bacalhau 300 08/01/2021
+add Ingredient 1 Massa Esparguete 1000 10/01/2021
+add Ingredient 1 Arroz 1000 14/01/2021
+add Ingredient 1 Tomate 500 08/01/2021
+add Ingredient 1 Costeletas de Porco 500 09/01/2021
+add Ingredient 1 Bife de Frango 500 07/01/2021
+add Ingredient 1 Cogumelos 300 05/01/2021
+add Ingredient 1 Grao 300 10/01/2021
+add Ingredient 1 Pato 300 12/01/2021
+add Ingredient 1 Polpa de Tomate 300 05/01/2021
+add Ingredient 1 Pescada 300 10/01/2021
+add Ingredient 1 Lula 300 10/01/2021
+add Ingredient 1 Frango 300 10/01/2021
+add Ingredient 1 Bacon 150 10/01/2021
+add Ingredient 1 Batata-Doce 200 14/01/2021
+add Ingredient 1 Folha de Louro 10 14/01/2021
+add Ingredient 1 Carne de Porco 300 10/01/2021
+add Ingredient 1 Farinha 200 08/07/2021
+add Ingredient 1 Ovo 6 08/01/2021
+add Ingredient 1 Feijao Encarnado 300 08/01/2021
+add Ingredient 1 Batata-palha 200 08/01/2021
+add Ingredient 1 Brocolos 200 08/07/2021
+add Ingredient 1 Aipo 200 08/07/2021
+add Ingredient 1 Couve-Portuguesa 200 08/07/2021
+add Ingredient 1 Courgette 200 08/07/2021
+add Ingredient 1 Pimento 200 08/07/2021
+add Ingredient 1 Courgette 200 08/07/2021
+add Ingredient 1 Massa Fusilli 200 08/07/2021
+add Ingredient 1 Fiambre 200 08/07/2021
+add Ingredient 1 Espinafres 200 08/07/2021
+add Ingredient 1 Milho 200 08/07/2021
+add Ingredient 1 Leite 200 08/07/2021
+add Ingredient 1 Manteiga 200 08/07/2021
+add Ingredient 1 Rucula 200 08/07/2021
+add Ingredient 1 Pao 500 08/07/2021
+add Ingredient 1 Batata-Doce 200 08/07/2021
+add Ingredient 1 Salsicha Fresca 200 08/07/2021
+add Ingredient 1 Espargos 200 08/07/2021
+add Ingredient 1 Lentilhas 200 08/07/2021
+add Ingredient 1 Nabica 200 08/07/2021
+add Ingredient 1 Abacaxi 200 08/07/2021
+add Ingredient 1 Ervilhas 200 08/07/2021
+add Ingredient 1 Agriao 200 08/07/2021
+add Ingredient 1 Arroz risotto 500 08/07/2021
+add Ingredient 1 Couve 200 08/07/2021
+add Ingredient 1 Limao 10 10/01/2021
+add Ingredient 1 Massa de Pimentao 500 07/01/2021
+add Ingredient 1 Ameijoa 1000 10/01/2021
+add Ingredient 1 Leite de Coco 500 10/01/2021
+add Ingredient 1 Caril 200 10/01/2021
+add Ingredient 1 Maca 200 10/01/2021
+add Ingredient 1 Manjericao 200 10/01/2021
+add Ingredient 1 Tamaras 200 10/01/2021
+add Ingredient 1 Queijo Feta 200 10/01/2021
+add Ingredient 1 Massa farfalle 200 10/01/2021
+add Ingredient 1 Tortellini de ricota 200 10/01/2021
+
+
+
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+get Suggestion 1
+choose Suggestion 1
+give Feedback 1
+
+
+end
+50 iteracoes solo, mesmo ingredientes que teste 13 para FP1

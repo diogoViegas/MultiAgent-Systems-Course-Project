@@ -1,0 +1,6 @@
+add FridgePantry 1
+add User Maria F 65 75 160 [Cebola] [] []
+add User Carlos M 35 75 180 [Tomate] [] []
+end
+
+testa se do fp estao a sair as receitas com alergias

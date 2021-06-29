@@ -1,0 +1,15 @@
+add FridgePantry 1
+add User Carla F 65 70 160 [] [] []
+add User Maria F 60 60 165 [] [] []
+add Ingredient 1 Abobora 500 01/01/2021 
+add Ingredient 1 Brocolos 600 01/01/2021 
+add Ingredient 1 Grao 400 01/01/2021 
+add Ingredient 1 Batata-Doce 500 01/01/2021 
+add Ingredient 1 Cebola 100 01/01/2021 
+add Ingredient 1 Alho 10 01/01/2021 
+get Suggestion 1
+choose Suggestion 1 1
+end
+
+testa a remocao de alimentos de uma receita que um 
+frigorifico consegue fazer com ingredientes exclusivamente seus

@@ -1,0 +1,72 @@
+add FridgePantry 1
+add User Carla F 65 70 160 [Amendoim] [Batata,Tomate,Bacalhau] [Aipo]
+add User Maria F 60 60 165 [] [Costeletas de Porco, Azeitona, Batata-Doce] []
+add User Roberto M 20 90 200 [] [Presunto, Bacon] [Couve]
+add FridgePantry 2
+add User Nelson M 25 75 170 [Abobora] [Broa, Vinho do Porto] [Pescada]
+add User Marta F 20 150 175 [] [Natas, Arroz] []
+add FridgePantry 3
+add User Carminho F 50 50 150 [Leite] [] [Milho]
+add FridgePantry 4
+add User Marcelo M 65 70 170 [] [Carne de Vaca Picada, Tomate] [Brocolos]
+add User Rebelo M 65 65 180 [Caril] [] [Pato]
+add User Amilcar M 30 95 200 [Noz] [Carne de Porco, Ameijoa, Batata] [Couve-Flor, Nabo]
+add Ingredient 1 Alho 30 07/01/2021
+add Ingredient 1 Presunto 1000 02/02/2021
+add Ingredient 1 Nabo 500 07/01/2021
+add Ingredient 1 Batata 1500 12/01/2021
+add Ingredient 1 Natas 1000 01/02/2021
+add Ingredient 1 Carne de Vaca Picada 1500 08/01/2021
+add Ingredient 1 Cebola 1500 05/01/2021
+add Ingredient 1 Bacalhau 2000 08/01/2021
+add Ingredient 1 Aipo 1000 07/01/2021
+add Ingredient 2 Iogurte 1000 05/01/2021
+add Ingredient 2 Cebola 800 07/01/2021
+add Ingredient 2 Massa Esparguete 1000 10/01/2021
+add Ingredient 2 Arroz 3000 14/01/2021
+add Ingredient 2 Carne de Porco 3000 10/01/2021
+add Ingredient 2 Tomate 2000 08/01/2021
+add Ingredient 2 Malagueta 100 04/03/2021
+add Ingredient 2 Lentilhas 1000 10/01/2021
+add Ingredient 2 Alho 20 10/01/2021
+add Ingredient 2 Ovo 12 08/01/2021
+add Ingredient 2 Bacon 200 10/01/2021
+add Ingredient 2 Fiambre 500 06/01/2021
+add Ingredient 3 Costeletas de Porco 1000 09/01/2021
+add Ingredient 3 Pimento 1000 07/01/2021
+add Ingredient 3 Bife de Frango 1000 07/01/2021
+add Ingredient 3 Cogumelos 500 05/01/2021
+add Ingredient 3 Grao 1000 10/01/2021
+add Ingredient 3 Limao 10 20/02/2021
+add Ingredient 3 Sumo de Laranja 500 02/01/2021
+add Ingredient 3 Parmesao 200 02/07/2021
+add Ingredient 4 Cenoura 400 05/01/2021
+add Ingredient 4 Atum 1500 15/01/2021
+add Ingredient 4 Arroz 3000 12/01/2021
+add Ingredient 4 Pato 3000 12/01/2021
+add Ingredient 4 Chourico 300 06/01/2021
+add Ingredient 4 Bacon 500 08/01/2021
+add Ingredient 4 Folha de Louro 30 07/07/2021
+add Ingredient 4 Polpa de Tomate 500 05/01/2021
+add Ingredient 4 Alho 20 08/01/2021
+add Ingredient 4 Vinho Tinto 2000 05/05/2021
+add Ingredient 4 Vinho Branco 5000 05/05/2021
+add Ingredient 4 Farinha 400 08/07/2021
+add Ingredient 4 Massa de Pimentao 500 07/01/2021
+add Ingredient 4 Ameijoa 1000 10/01/2021
+add Ingredient 4 Batata 3000 10/01/2021
+get Suggestion 1
+choose Suggestion 1 
+give Feedback 1 
+get Suggestion 2  
+choose Suggestion 2  
+give Feedback 2 
+get Suggestion 3  
+choose Suggestion 3 
+give Feedback 3 
+get Suggestion 4
+choose Suggestion 4 
+give Feedback 4 
+end
+
+

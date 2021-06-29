@@ -1,0 +1,19 @@
+add FridgePantry 1
+add User Maria F 65 75 160 [] [] []
+add User Carlos M 35 75 180 [] [] []
+add Ingredient 1 Bacalhau 300 01/01/2023
+add Ingredient 1 Batata-palha 100 01/01/2023
+add Ingredient 1 Cebola 50 01/01/2023
+add Ingredient 1 Alho 2 01/01/2023
+add Ingredient 1 Ovo 4 01/01/2023 
+get Suggestion 1
+choose Suggestion 1 1
+give Feedback 1 5
+show ShoppingList 1
+add Ingredient 1 Bacalhau 240 01/01/2023
+add Ingredient 1 Batata-palha 800 01/01/2023
+show ShoppingList 1	
+end
+
+testa a formacao da lista de compras e quando um ingrediente e inserido
+e confirmado se estava na lista de comprar para reduzir/apagar a quantidade dele
